@@ -39,7 +39,7 @@ O objetivo é criar um ambiente de dados que permita gerar **insights gerenciais
 - Criação de métricas automatizadas com Tabelas Dinâmicas.
 - Recursos de segmentação para análises interativas.
 
-![Dashboard Excel](Imagens/Excel-Geral.png)
+<img src="Imagens/Excel-Geral.png" alt="Dashboard Excel" width="800"/>
 
 ### 🔹 No Power BI
 - Dashboard gerencial com visão integrada de clientes, unidades, planos e receitas.
@@ -47,7 +47,7 @@ O objetivo é criar um ambiente de dados que permita gerar **insights gerenciais
 - Indicadores de crescimento e desempenho financeiro.
 
 
-![Dashboard Excel](Imagens/BI-Geral.png)
+<img src="Imagens/BI-Geral.png" alt="Dashboard Power BI" width="800"/>
 
 ---
 
