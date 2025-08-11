@@ -1,0 +1,151 @@
+ID_funcionario,Nome,Genero,CPF,Telefone,Email,Endereco,Cargo,Estado_civil,Data_Nascimento,Data_admissao,Data_demissao,ID_Departamento,ID_Unidade
+1,Rafaela Ramos,Feminino,429.875.106-67,(62) 91486-9409,omonteiro@uol.com.br,GO;Aparecida de Goiânia;Setor Bueno;Passarela Oliveira,Recepcionista,Viúvo(a),1998-12-02,2020-01-05,2025-02-22,3,1
+2,Rodrigo Melo,Masculino,368.954.102-60,(62) 98471-4054,novaesfelipe@cavalcanti.com,GO;Goiânia;Jardim Goiás;Feira Otávio Barbosa,Faxineiro,Divorciado(a),1978-09-10,2025-01-05,2025-04-01,3,5
+3,Eduardo Cavalcanti,Feminino,510.739.246-61,(62) 99640-1554,ana-carolinacunha@costa.net,GO;Goiânia;Setor Oeste;Rua de Moreira,Consultor de Vendas,Divorciado(a),1977-10-11,2016-10-20,2018-09-05,1,2
+4,Dr. Yago Duarte,Feminino,971.238.604-03,(62) 97790-6483,nascimentosophie@alves.br,GO;Goiânia;Setor Oeste;Feira Nascimento,Recepcionista,Divorciado(a),1988-08-13,2016-08-04,2021-07-09,3,2
+5,Alícia da Conceição,Feminino,628.734.105-07,(62) 98958-4050,ana-claracastro@mendes.com,GO;Aparecida de Goiânia;Centro;Avenida Souza,Administrativo,Viúvo(a),1984-04-02,2016-02-22,2017-06-16,5,5
+6,Dr. Paulo Sales,Feminino,062.548.931-42,(62) 96542-8759,ana-carolinasouza@uol.com.br,GO;Aparecida de Goiânia;Setor Bueno;Núcleo Caio Teixeira,Consultor de Vendas,Divorciado(a),1979-03-04,2022-09-14,2025-01-19,5,3
+7,Vitor Hugo Novaes,Feminino,821.903.745-88,(62) 96572-5918,rcardoso@aragao.com,GO;Goiânia;Centro;Distrito de Araújo,Administrativo,Solteiro(a),1968-02-14,2021-05-20,2024-12-23,4,4
+8,Dra. Julia da Luz,Feminino,607.851.243-90,(62) 99461-7565,tsilveira@bol.com.br,GO;Goiânia;Vila Brasília;Vale de da Cunha,Recepcionista,Casado(a),1968-11-15,2019-07-05,2020-12-08,3,5
+9,Daniela Teixeira,Masculino,152.946.803-51,(62) 99305-3286,luiz-gustavo01@farias.org,GO;Aparecida de Goiânia;Setor Bueno;Núcleo Nathan Duarte,Instrutor,Solteiro(a),1970-05-21,2024-03-08,2025-04-29,3,2
+10,Valentina Lima,Feminino,547.809.326-29,(62) 97515-7487,zda-rosa@uol.com.br,GO;Aparecida de Goiânia;Setor Bueno;Rua de Duarte,Instrutor,Casado(a),1997-02-09,2021-07-16,2023-01-25,2,2
+11,Milena Moreira,Feminino,045.816.379-10,(62) 95038-2316,crezende@da.br,GO;Goiânia;Setor Bueno;Colônia Cardoso,Recepcionista,Viúvo(a),1980-01-11,2021-09-29,2024-03-29,1,2
+12,Dra. Agatha Gomes,Masculino,398.027.416-04,(62) 99098-7131,cardosopedro-henrique@araujo.com,GO;Aparecida de Goiânia;Centro;Viela de da Paz,Recepcionista,Divorciado(a),1978-10-15,2021-02-20,2022-09-19,1,4
+13,Leandro da Cunha,Feminino,260.541.789-11,(62) 93481-8738,onunes@correia.org,GO;Aparecida de Goiânia;Parque Amazônia;Sítio da Costa,Faxineiro,Casado(a),1977-07-12,2017-05-15,2017-06-08,1,4
+14,Lucas Cardoso,Masculino,714.236.085-26,(62) 95215-3187,vieiradanilo@bol.com.br,GO;Aparecida de Goiânia;Jardim Goiás;Aeroporto de Almeida,Gerente,Viúvo(a),1987-03-22,2022-08-09,2024-06-24,5,4
+15,Pedro Miguel Moraes,Masculino,263.948.015-42,(62) 95683-9000,joao-guilherme41@araujo.com,GO;Goiânia;Parque Amazônia;Parque de Rocha,Recepcionista,Casado(a),1971-03-28,2016-07-02,2023-04-02,2,3
+16,Giovanna Pereira,Feminino,024.715.863-17,(62) 95568-9215,davi-lucca49@gmail.com,GO;Aparecida de Goiânia;Centro;Recanto Davi Luiz Sales,Instrutor,Casado(a),1987-07-10,2018-11-02,2020-02-14,2,4
+17,Theo Sales,Masculino,975.130.286-21,(62) 90724-4460,pvieira@rocha.br,GO;Aparecida de Goiânia;Setor Oeste;Chácara Campos,Instrutor,Divorciado(a),1982-02-21,2018-05-05,2024-06-29,4,2
+18,Carlos Eduardo da Cruz,Feminino,489.263.705-00,(62) 92469-5668,vcardoso@ferreira.com,GO;Aparecida de Goiânia;Setor Oeste;Aeroporto de Oliveira,Consultor de Vendas,Viúvo(a),1991-12-15,2021-01-15,2023-09-05,1,3
+19,Sr. Marcelo Moraes,Feminino,703.285.416-80,(62) 92941-3679,yaraujo@da.com,GO;Goiânia;Jardim Goiás;Colônia Costela,Faxineiro,Solteiro(a),1995-05-02,2019-03-16,2023-09-24,3,1
+20,Bryan Silveira,Feminino,172.098.345-32,(62) 90200-3635,aferreira@gmail.com,GO;Goiânia;Setor Oeste;Travessa Campos,Administrativo,Viúvo(a),1986-03-01,2020-07-10,2021-08-17,6,4
+21,Rebeca Caldeira,Masculino,782.690.415-30,(62) 97964-7581,sarah24@costa.br,GO;Goiânia;Jardim Goiás;Lago Marcela Novaes,Gerente,Viúvo(a),1994-04-14,2018-01-13,2020-05-15,3,1
+22,Bianca Costela,Feminino,306.218.457-44,(62) 98225-7108,das-neveselisa@bol.com.br,GO;Aparecida de Goiânia;Jardim Goiás;Colônia Letícia Mendes,Administrativo,Divorciado(a),2006-04-27,2018-02-09,2020-02-18,1,2
+23,Ryan Pereira,Feminino,652.037.814-35,(62) 98711-7282,eduardopinto@lopes.com,GO;Goiânia;Parque Amazônia;Área Stella Martins,Recepcionista,Solteiro(a),1984-03-06,2017-05-03,2018-02-25,3,5
+24,Srta. Lorena Cavalcanti,Feminino,346.510.879-57,(62) 93237-9436,cmartins@ig.com.br,GO;Aparecida de Goiânia;Vila Brasília;Avenida Enzo Gabriel Souza,Faxineiro,Solteiro(a),1980-01-21,2015-10-24,2020-06-23,4,3
+25,Samuel Martins,Masculino,497.231.850-32,(62) 91991-9021,bfarias@bol.com.br,GO;Aparecida de Goiânia;Jardim Goiás;Área Diogo Pereira,Instrutor,Divorciado(a),1998-09-27,2021-09-15,2022-05-15,3,4
+26,Sr. Breno Rocha,Feminino,504.871.362-17,(62) 94852-1385,lais68@fogaca.com,GO;Aparecida de Goiânia;Vila Brasília;Vale de Moraes,Recepcionista,Divorciado(a),1976-02-03,2025-03-08,2025-03-12,3,4
+27,Dr. Arthur Monteiro,Masculino,721.483.965-28,(62) 97319-6318,vda-rocha@gomes.com,GO;Goiânia;Setor Oeste;Trevo Monteiro,Administrativo,Solteiro(a),1982-11-30,2016-03-05,2022-08-29,3,1
+28,Vicente Rodrigues,Feminino,809.341.762-13,(62) 94073-3871,mmelo@vieira.net,GO;Goiânia;Centro;Chácara da Mata,Recepcionista,Casado(a),1986-12-28,2022-03-20,2024-04-13,6,4
+29,Beatriz Monteiro,Feminino,035.689.741-93,(62) 94500-6658,diego34@sales.com,GO;Goiânia;Jardim Goiás;Largo Rodrigues,Consultor de Vendas,Viúvo(a),1980-05-27,2023-12-01,2024-06-15,1,1
+30,Yuri Castro,Feminino,420.981.763-50,(62) 96107-1627,enzo-gabriel58@uol.com.br,GO;Goiânia;Setor Bueno;Vale Gomes,Faxineiro,Solteiro(a),1974-05-06,2021-05-27,2021-08-13,3,3
+31,Helena Cunha,Feminino,530.642.981-51,(62) 96565-1366,agathagoncalves@ig.com.br,GO;Aparecida de Goiânia;Setor Bueno;Residencial da Rocha,Consultor de Vendas,Solteiro(a),1995-11-27,2025-07-12,2025-07-20,4,1
+32,Brenda das Neves,Masculino,816.509.472-67,(62) 99353-5275,cavalcantimarcela@ig.com.br,GO;Goiânia;Setor Oeste;Feira da Rocha,Consultor de Vendas,Solteiro(a),1968-01-12,2017-05-25,2017-08-24,3,5
+33,Helena da Mota,Feminino,502.673.941-52,(62) 93525-8158,kevincunha@da.com,GO;Goiânia;Setor Oeste;Recanto de Farias,Gerente,Solteiro(a),2000-03-21,2021-01-19,2025-02-01,5,4
+34,Vitor Jesus,Masculino,319.704.268-96,(62) 94668-5467,hda-cunha@correia.com,GO;Aparecida de Goiânia;Centro;Parque Barros,Recepcionista,Solteiro(a),1999-09-07,2015-09-09,2019-03-31,4,2
+35,Ana Clara Moura,Feminino,139.842.560-51,(62) 94375-8576,ana-luizafreitas@dias.com,GO;Aparecida de Goiânia;Vila Brasília;Fazenda da Rocha,Instrutor,Casado(a),1994-11-21,2016-08-14,2020-11-15,2,1
+36,Emanuelly Novaes,Feminino,245.960.318-51,(62) 93621-2044,lucas-gabriel55@da.com,GO;Aparecida de Goiânia;Vila Brasília;Condomínio de Silva,Consultor de Vendas,Viúvo(a),1966-06-12,2025-01-10,2025-03-20,5,4
+37,Milena Dias,Feminino,850.614.293-89,(62) 98871-7374,eduarda75@rezende.br,GO;Goiânia;Jardim Goiás;Colônia Pedro Duarte,Gerente,Divorciado(a),1979-04-21,2016-02-23,2023-09-26,3,3
+38,João Miguel Oliveira,Feminino,670.593.182-59,(62) 92486-8568,pintomaria@cavalcanti.br,GO;Aparecida de Goiânia;Parque Amazônia;Fazenda Benjamin Farias,Recepcionista,Casado(a),1997-12-05,2019-01-28,,6,4
+39,Srta. Caroline Fernandes,Feminino,037.849.652-29,(62) 96601-1528,beniciopeixoto@gmail.com,GO;Goiânia;Parque Amazônia;Trecho de Cunha,Consultor de Vendas,Viúvo(a),1968-01-15,2015-10-29,,5,3
+40,João Lucas Silveira,Masculino,207.183.649-96,(62) 93400-9676,noahpinto@bol.com.br,GO;Aparecida de Goiânia;Setor Oeste;Recanto Luigi da Conceição,Gerente,Divorciado(a),1989-02-02,2021-01-16,,4,4
+41,Vitor Pereira,Masculino,520.891.347-04,(62) 92554-3731,portoian@monteiro.com,GO;Aparecida de Goiânia;Vila Brasília;Largo Martins,Administrativo,Viúvo(a),1965-05-04,2024-09-18,,4,1
+42,Miguel Peixoto,Feminino,849.236.570-65,(62) 99116-9040,nicolas20@yahoo.com.br,GO;Aparecida de Goiânia;Setor Bueno;Avenida Luana Moreira,Administrativo,Casado(a),1970-05-11,2021-11-14,,4,5
+43,Dra. Giovanna Peixoto,Masculino,740.819.625-02,(62) 91588-7483,julia93@gmail.com,GO;Goiânia;Setor Bueno;Campo das Neves,Instrutor,Divorciado(a),1982-02-07,2016-11-29,,2,2
+44,Arthur Monteiro,Feminino,806.539.412-42,(62) 99012-7693,pedro-henrique84@gmail.com,GO;Goiânia;Setor Oeste;Aeroporto Barbosa,Faxineiro,Divorciado(a),1984-07-28,2016-03-19,,3,3
+45,Gustavo Oliveira,Masculino,459.738.162-73,(62) 95206-9229,thiagooliveira@gmail.com,GO;Aparecida de Goiânia;Vila Brasília;Sítio Isadora da Conceição,Recepcionista,Viúvo(a),1983-10-09,2022-04-27,,4,4
+46,Beatriz Lopes,Feminino,760.914.825-30,(62) 97363-3571,carvalhoclarice@gmail.com,GO;Aparecida de Goiânia;Setor Bueno;Viaduto Cavalcanti,Gerente,Solteiro(a),1990-09-18,2021-07-31,,5,3
+47,Rodrigo Moura,Feminino,081.246.973-96,(62) 92822-2610,augusto71@fernandes.com,GO;Aparecida de Goiânia;Jardim Goiás;Praça de Freitas,Faxineiro,Viúvo(a),1997-04-24,2023-10-25,,2,1
+48,Dra. Joana da Mota,Masculino,103.695.824-89,(62) 92270-9247,kcaldeira@yahoo.com.br,GO;Aparecida de Goiânia;Centro;Parque Eduardo Oliveira,Instrutor,Divorciado(a),1999-04-12,2019-11-25,,5,2
+49,Guilherme Nascimento,Masculino,964.257.138-28,(62) 99327-8731,joao-lucassilva@carvalho.br,GO;Goiânia;Parque Amazônia;Conjunto de Fogaça,Gerente,Solteiro(a),1983-07-27,2023-12-20,,6,5
+50,Dra. Rafaela da Cruz,Feminino,975.402.631-99,(62) 99044-9377,limavitor@viana.org,GO;Goiânia;Setor Bueno;Feira Yasmin da Costa,Faxineiro,Divorciado(a),1984-04-05,2025-02-09,,6,2
+51,Dra. Luna Aragão,Masculino,739.856.412-00,(62) 97736-4273,csouza@farias.org,GO;Goiânia;Setor Oeste;Morro Correia,Gerente,Solteiro(a),2002-11-20,2017-04-09,,1,2
+52,Laís Costa,Feminino,627.835.419-55,(62) 97523-5014,cardosojoana@gmail.com,GO;Aparecida de Goiânia;Parque Amazônia;Estrada de Moreira,Recepcionista,Casado(a),1975-09-20,2022-01-19,,4,5
+53,Cauê Mendes,Masculino,931.864.507-48,(62) 99896-6427,klopes@gmail.com,GO;Goiânia;Setor Bueno;Vereda Moura,Faxineiro,Solteiro(a),1994-04-03,2019-03-12,,1,1
+54,Dra. Milena Peixoto,Feminino,704.623.918-50,(62) 98515-8703,moraesana-sophia@uol.com.br,GO;Goiânia;Jardim Goiás;Conjunto Moreira,Faxineiro,Divorciado(a),1965-10-28,2017-01-12,,6,5
+55,Dr. Gustavo Henrique Fernandes,Masculino,940.586.213-89,(62) 99944-9751,yago37@fogaca.org,GO;Goiânia;Parque Amazônia;Loteamento Nicole Mendes,Faxineiro,Viúvo(a),1996-10-17,2022-03-21,,6,1
+56,Júlia da Rocha,Feminino,354.102.876-90,(62) 96527-1653,portoigor@ribeiro.com,GO;Aparecida de Goiânia;Setor Oeste;Vereda de da Conceição,Consultor de Vendas,Viúvo(a),1996-11-21,2022-03-13,,4,1
+57,Giovanna Santos,Masculino,870.546.291-67,(62) 92391-5300,duartealice@uol.com.br,GO;Goiânia;Vila Brasília;Setor de Araújo,Consultor de Vendas,Casado(a),1977-05-01,2023-06-26,,3,4
+58,Nina Lima,Feminino,482.597.163-64,(62) 92325-4982,rochakamilly@cavalcanti.br,GO;Goiânia;Jardim Goiás;Fazenda Bárbara Sales,Gerente,Solteiro(a),1996-05-12,2024-07-08,,3,1
+59,Daniel Freitas,Feminino,716.240.583-53,(62) 98053-5009,augusto72@yahoo.com.br,GO;Aparecida de Goiânia;Setor Oeste;Estação de Monteiro,Gerente,Viúvo(a),1967-01-13,2017-04-06,,3,4
+60,Maria Cardoso,Feminino,567.403.192-43,(62) 99309-5510,aragaoemanuella@gmail.com,GO;Goiânia;Vila Brasília;Favela Lima,Recepcionista,Casado(a),2004-01-06,2015-11-22,,5,3
+61,Emanuel Rocha,Masculino,432.689.157-28,(62) 93621-7076,carvalhomaria@moraes.com,GO;Aparecida de Goiânia;Vila Brasília;Via da Luz,Consultor de Vendas,Divorciado(a),2003-07-13,2020-09-09,,3,2
+62,Emanuella Barbosa,Feminino,318.476.920-87,(62) 97787-8206,lmoraes@yahoo.com.br,GO;Aparecida de Goiânia;Parque Amazônia;Chácara da Conceição,Recepcionista,Casado(a),1966-06-14,2018-10-14,,2,5
+63,Miguel Caldeira,Feminino,568.934.207-65,(62) 96295-5215,giovannada-rocha@ig.com.br,GO;Goiânia;Parque Amazônia;Morro Maria Fernanda Gomes,Instrutor,Casado(a),1975-05-27,2024-08-04,,5,3
+64,Fernanda Nogueira,Masculino,378.124.509-88,(62) 99572-1197,ana-liviaribeiro@cardoso.net,GO;Aparecida de Goiânia;Setor Oeste;Passarela da Cruz,Consultor de Vendas,Viúvo(a),1988-12-03,2016-05-15,,4,5
+65,Dr. Eduardo da Cruz,Masculino,672.859.143-55,(62) 95639-3553,wrezende@duarte.org,GO;Aparecida de Goiânia;Vila Brasília;Chácara de da Cunha,Administrativo,Divorciado(a),2000-05-30,2022-12-31,,4,4
+66,Bárbara Santos,Masculino,794.386.051-93,(62) 98605-8897,tnascimento@nascimento.com,GO;Aparecida de Goiânia;Setor Bueno;Lago de Castro,Faxineiro,Solteiro(a),1986-02-18,2023-11-06,,6,1
+67,Breno Silva,Feminino,029.876.543-83,(62) 93683-6067,camposgabriel@bol.com.br,GO;Goiânia;Setor Bueno;Feira Valentina Farias,Recepcionista,Divorciado(a),1995-08-21,2016-07-14,,5,1
+68,Kevin Moreira,Masculino,781.243.956-91,(62) 95840-9172,da-rochavicente@campos.com,GO;Goiânia;Jardim Goiás;Largo de Silva,Consultor de Vendas,Casado(a),1985-02-20,2021-11-11,,6,2
+69,Laura das Neves,Feminino,137.056.429-52,(62) 90538-7528,diegoporto@yahoo.com.br,GO;Goiânia;Parque Amazônia;Alameda Cecília Dias,Gerente,Solteiro(a),1965-01-16,2018-09-21,,3,5
+70,Thales Pires,Masculino,379.148.052-97,(62) 90917-8317,heloisa26@cardoso.com,GO;Goiânia;Vila Brasília;Viela Ferreira,Recepcionista,Divorciado(a),1965-08-21,2015-07-31,,6,2
+71,Ana Julia da Rocha,Masculino,865.274.310-07,(62) 93741-8472,davi-luiz43@viana.com,GO;Goiânia;Setor Bueno;Recanto Davi Luiz Campos,Administrativo,Divorciado(a),2002-06-29,2016-02-08,,5,3
+72,Heitor Mendes,Masculino,015.789.426-67,(62) 93113-2043,da-costacamila@uol.com.br,GO;Aparecida de Goiânia;Setor Bueno;Estrada de Freitas,Instrutor,Casado(a),1998-03-23,2023-10-29,,2,2
+73,Larissa Peixoto,Feminino,054.723.168-71,(62) 97606-2610,fogacajoaquim@hotmail.com,GO;Goiânia;Vila Brasília;Passarela Luiz Henrique Caldeira,Gerente,Solteiro(a),1990-11-25,2020-01-23,,2,4
+74,Sofia Santos,Masculino,617.290.835-95,(62) 97240-2366,jesushelena@nascimento.br,GO;Goiânia;Jardim Goiás;Alameda de Cardoso,Instrutor,Casado(a),2003-03-14,2024-01-27,,5,4
+75,Valentina Melo,Feminino,570.413.629-06,(62) 99327-1157,ferreiramarcelo@ig.com.br,GO;Aparecida de Goiânia;Vila Brasília;Chácara Noah Freitas,Instrutor,Viúvo(a),1973-12-06,2020-01-05,,6,2
+76,Vinicius Nunes,Feminino,708.529.413-23,(62) 90008-5124,qsilva@da.br,GO;Aparecida de Goiânia;Jardim Goiás;Jardim de Pires,Faxineiro,Casado(a),1967-07-04,2020-07-26,,3,5
+77,Fernando Campos,Feminino,681.270.354-08,(62) 98424-5649,barbosaana-clara@bol.com.br,GO;Aparecida de Goiânia;Parque Amazônia;Jardim das Neves,Gerente,Casado(a),1993-07-25,2021-09-13,,3,3
+78,Lorena da Costa,Feminino,376.950.412-70,(62) 97209-2826,ucardoso@araujo.br,GO;Aparecida de Goiânia;Setor Bueno;Chácara Ramos,Instrutor,Divorciado(a),1988-04-02,2017-06-18,,5,4
+79,Dra. Maria Alice Almeida,Feminino,078.421.563-44,(62) 92672-3929,hcavalcanti@ig.com.br,GO;Aparecida de Goiânia;Centro;Recanto Camila Barbosa,Consultor de Vendas,Divorciado(a),1994-01-28,2022-11-09,,1,4
+80,Ana Carvalho,Feminino,928.417.053-23,(62) 98824-3992,enzo-gabrielmoreira@porto.br,GO;Goiânia;Setor Bueno;Residencial de Teixeira,Recepcionista,Casado(a),1979-09-10,2018-12-01,,3,5
+81,Letícia Freitas,Feminino,081.759.236-95,(62) 95243-9690,lnovaes@ig.com.br,GO;Goiânia;Jardim Goiás;Setor de Araújo,Consultor de Vendas,Divorciado(a),1970-09-29,2018-07-30,,5,2
+82,Stephany da Cunha,Masculino,562.041.387-07,(62) 95304-3562,theorodrigues@campos.com,GO;Aparecida de Goiânia;Setor Bueno;Avenida de Novaes,Recepcionista,Casado(a),1980-12-23,2023-05-13,,5,2
+83,Enzo Gabriel Moura,Feminino,591.203.478-04,(62) 98461-8762,kda-costa@uol.com.br,GO;Aparecida de Goiânia;Parque Amazônia;Setor Agatha da Mota,Consultor de Vendas,Divorciado(a),1990-10-31,2016-07-02,,2,3
+84,Yago Moreira,Feminino,367.180.549-84,(62) 94974-7075,bryan80@uol.com.br,GO;Aparecida de Goiânia;Setor Bueno;Ladeira de Aragão,Gerente,Divorciado(a),2006-04-06,2023-01-19,,6,3
+85,Yasmin Rezende,Feminino,387.041.269-04,(62) 95046-7968,pintoyago@viana.org,GO;Aparecida de Goiânia;Vila Brasília;Lago de Duarte,Faxineiro,Solteiro(a),2002-12-06,2019-07-08,,4,1
+86,Vitor Gabriel Almeida,Feminino,460.152.378-80,(62) 95793-3292,kfreitas@ribeiro.com,GO;Aparecida de Goiânia;Jardim Goiás;Lago Bianca Barros,Instrutor,Casado(a),1986-01-03,2025-01-04,,2,3
+87,Benício Ferreira,Feminino,702.354.861-08,(62) 96119-1387,vicente13@gmail.com,GO;Aparecida de Goiânia;Setor Oeste;Avenida de Martins,Faxineiro,Divorciado(a),2007-06-29,2016-06-05,,5,5
+88,Pedro Henrique Viana,Masculino,579.231.064-52,(62) 93522-9240,blima@da.com,GO;Aparecida de Goiânia;Jardim Goiás;Largo de Almeida,Instrutor,Solteiro(a),1994-10-27,2018-05-13,,2,2
+89,Dr. Enzo Gabriel da Mata,Feminino,052.479.816-85,(62) 97859-8698,rafaelda-cruz@rezende.com,GO;Aparecida de Goiânia;Centro;Praia Vieira,Consultor de Vendas,Viúvo(a),1999-04-18,2023-08-23,,2,3
+90,Sophie Monteiro,Feminino,051.749.283-05,(62) 90971-2661,goncalvesemanuel@hotmail.com,GO;Aparecida de Goiânia;Centro;Aeroporto Sales,Gerente,Divorciado(a),1982-02-26,2016-04-15,,4,3
+91,Vicente Moura,Masculino,156.479.803-84,(62) 97730-3200,stephanynascimento@bol.com.br,GO;Goiânia;Parque Amazônia;Trecho de Ferreira,Gerente,Viúvo(a),1995-01-26,2019-06-05,,2,2
+92,Letícia da Paz,Feminino,025.164.973-34,(62) 99405-4276,ada-paz@gmail.com,GO;Goiânia;Vila Brasília;Chácara Heitor Jesus,Faxineiro,Casado(a),1972-12-15,2019-01-16,,3,5
+93,Cecília Jesus,Feminino,912.574.063-61,(62) 99120-9700,mgomes@uol.com.br,GO;Goiânia;Setor Oeste;Favela Ana Clara Monteiro,Recepcionista,Solteiro(a),1977-11-05,2017-01-03,,6,3
+94,Gabriela Lopes,Feminino,945.380.271-97,(62) 97304-4519,vitor-hugo31@vieira.br,GO;Aparecida de Goiânia;Setor Bueno;Fazenda Lucca Barbosa,Faxineiro,Casado(a),1973-05-04,2018-12-15,,4,3
+95,Guilherme da Costa,Feminino,398.546.107-48,(62) 93260-5243,pietroaraujo@sales.com,GO;Goiânia;Setor Oeste;Lagoa Farias,Recepcionista,Solteiro(a),2001-10-02,2022-12-27,,6,4
+96,Lara Silva,Feminino,470.631.582-44,(62) 96493-8968,barbara89@uol.com.br,GO;Goiânia;Centro;Estrada Alícia Santos,Administrativo,Divorciado(a),1966-07-20,2021-08-25,,1,5
+97,Luigi da Mota,Feminino,802.169.347-96,(62) 90525-9261,beatriz70@moreira.com,GO;Aparecida de Goiânia;Setor Oeste;Vila de Novaes,Gerente,Divorciado(a),1974-01-05,2017-05-09,,6,1
+98,Miguel Santos,Masculino,639.841.052-15,(62) 99261-2509,nascimentosophie@santos.com,GO;Goiânia;Vila Brasília;Residencial Barros,Administrativo,Casado(a),1985-10-13,2018-05-11,,5,1
+99,Sr. Marcelo Fogaça,Feminino,650.347.928-00,(62) 99994-4127,eduardo99@pires.com,GO;Aparecida de Goiânia;Centro;Condomínio Barbosa,Gerente,Viúvo(a),2002-07-11,2016-08-21,,4,2
+100,Clara Ferreira,Feminino,805.726.349-00,(62) 91196-3976,joao-pedrofernandes@uol.com.br,GO;Aparecida de Goiânia;Parque Amazônia;Setor Vitor Gabriel Ramos,Faxineiro,Viúvo(a),1973-10-19,2022-02-28,,1,4
+101,Diego Castro,Feminino,310.956.487-48,(62) 90104-7388,ojesus@ig.com.br,GO;Goiânia;Centro;Rua Sales,Recepcionista,Divorciado(a),2002-05-27,2015-09-22,,4,2
+102,Srta. Laura Souza,Feminino,253.701.694-70,(62) 93651-6351,davi-lucca55@viana.com,GO;Aparecida de Goiânia;Vila Brasília;Vereda Pires,Consultor de Vendas,Casado(a),1978-03-18,2016-11-25,,5,3
+103,Davi Luiz Costa,Masculino,756.123.849-55,(62) 93094-3429,enzo-gabrielsales@porto.com,GO;Aparecida de Goiânia;Setor Bueno;Via Laura Rocha,Recepcionista,Solteiro(a),1992-05-18,2022-12-22,,1,5
+104,Arthur Souza,Masculino,407.923.586-00,(62) 92086-9848,sporto@uol.com.br,GO;Goiânia;Setor Oeste;Conjunto Enzo Rodrigues,Gerente,Divorciado(a),1999-05-09,2020-12-18,,2,2
+105,Heloísa Costela,Masculino,594.128.367-91,(62) 94963-3675,isabellacaldeira@da.com,GO;Aparecida de Goiânia;Jardim Goiás;Pátio de Ribeiro,Recepcionista,Casado(a),2006-06-29,2020-03-11,,3,1
+106,Leandro Araújo,Masculino,154.097.836-20,(62) 97203-3017,lucascunha@hotmail.com,GO;Goiânia;Jardim Goiás;Viaduto de Souza,Faxineiro,Casado(a),1991-02-20,2017-12-03,,4,1
+107,João Gabriel Fernandes,Feminino,689.143.502-15,(62) 97185-7540,alana57@vieira.com,GO;Goiânia;Setor Bueno;Lagoa de da Paz,Faxineiro,Solteiro(a),1997-12-19,2016-12-04,,1,2
+108,Sra. Stella da Cruz,Masculino,627.158.049-11,(62) 92668-4434,cardosoheitor@oliveira.org,GO;Aparecida de Goiânia;Centro;Vereda Breno Pinto,Consultor de Vendas,Divorciado(a),1969-09-18,2020-06-03,,6,3
+109,Valentina Azevedo,Feminino,910.746.382-04,(62) 93129-4446,renan43@gmail.com,GO;Aparecida de Goiânia;Centro;Colônia Ribeiro,Faxineiro,Divorciado(a),1999-11-23,2020-02-25,,5,1
+110,Ana Rodrigues,Feminino,420.581.936-60,(62) 90264-1118,salessophie@da.br,GO;Aparecida de Goiânia;Jardim Goiás;Passarela Isabel Cavalcanti,Faxineiro,Solteiro(a),1967-09-13,2023-03-11,,3,3
+111,Pedro Lucas Teixeira,Feminino,618.930.725-68,(62) 91069-8113,theoazevedo@oliveira.com,GO;Aparecida de Goiânia;Parque Amazônia;Quadra Peixoto,Recepcionista,Solteiro(a),1982-01-31,2019-10-01,,6,4
+112,Murilo Lima,Feminino,652.387.019-77,(62) 90259-5500,rrodrigues@yahoo.com.br,GO;Aparecida de Goiânia;Parque Amazônia;Chácara Oliveira,Instrutor,Casado(a),1965-08-04,2018-04-01,,2,2
+113,Isadora Moraes,Masculino,387.264.910-87,(62) 92096-9497,mirella15@da.com,GO;Goiânia;Setor Bueno;Avenida Castro,Consultor de Vendas,Viúvo(a),1991-10-04,2020-03-27,,1,1
+114,Srta. Alexia Farias,Masculino,278.596.403-92,(62) 94801-7089,ryan78@sales.org,GO;Aparecida de Goiânia;Vila Brasília;Avenida de Gonçalves,Recepcionista,Viúvo(a),1996-09-23,2023-04-23,,2,2
+115,Francisco Novaes,Masculino,472.659.183-55,(62) 92975-6981,oliveiraana-sophia@aragao.br,GO;Goiânia;Centro;Lago de Gonçalves,Instrutor,Viúvo(a),1976-05-27,2024-03-20,,2,3
+116,Nathan Farias,Feminino,164.908.732-22,(62) 96114-5344,xbarros@hotmail.com,GO;Aparecida de Goiânia;Vila Brasília;Rua Julia Cardoso,Instrutor,Solteiro(a),1964-09-12,2021-05-27,,3,1
+117,Isabelly Ribeiro,Feminino,915.642.837-55,(62) 90560-3364,enzo23@yahoo.com.br,GO;Goiânia;Jardim Goiás;Jardim Freitas,Administrativo,Viúvo(a),1968-05-19,2023-07-13,,5,5
+118,Srta. Maitê Aragão,Masculino,631.574.289-00,(62) 92591-2640,ana-sophia84@aragao.br,GO;Aparecida de Goiânia;Centro;Vila Costa,Recepcionista,Solteiro(a),1975-03-14,2024-06-23,,4,1
+119,Breno Castro,Masculino,126.859.073-86,(62) 97793-8609,luiz-miguel78@bol.com.br,GO;Aparecida de Goiânia;Jardim Goiás;Favela de Rezende,Recepcionista,Solteiro(a),1995-08-05,2016-06-17,,3,4
+120,Ana Carolina Moura,Feminino,079.428.361-69,(62) 94208-3100,ana-luizanunes@fernandes.br,GO;Aparecida de Goiânia;Setor Oeste;Praia Henrique Almeida,Administrativo,Solteiro(a),1998-05-02,2024-07-06,,4,4
+121,Fernando Rodrigues,Masculino,073.845.612-80,(62) 92061-4593,laviniapinto@nogueira.org,GO;Goiânia;Vila Brasília;Ladeira Luiz Otávio Cavalcanti,Recepcionista,Casado(a),2004-06-21,2024-11-08,,6,1
+122,Clarice Santos,Masculino,572.413.980-41,(62) 96616-5625,gmoraes@lopes.com,GO;Goiânia;Vila Brasília;Lago Ana Lívia Viana,Recepcionista,Casado(a),1998-03-16,2017-04-05,,3,2
+123,Dr. Vicente das Neves,Feminino,391.584.702-04,(62) 95384-8571,ymelo@gmail.com,GO;Aparecida de Goiânia;Parque Amazônia;Praça de Castro,Recepcionista,Divorciado(a),1996-03-17,2022-01-12,,4,3
+124,Sr. Danilo Correia,Masculino,098.134.562-05,(62) 99492-1560,almeidasamuel@gmail.com,GO;Aparecida de Goiânia;Parque Amazônia;Conjunto de Martins,Consultor de Vendas,Solteiro(a),1980-01-18,2024-04-20,,2,2
+125,Ana Beatriz Peixoto,Masculino,310.289.467-40,(62) 92342-1558,tda-cunha@gomes.br,GO;Goiânia;Setor Bueno;Estação Novaes,Faxineiro,Divorciado(a),1999-09-01,2023-09-03,,1,5
+126,Sr. Bryan Cardoso,Feminino,524.617.308-90,(62) 97927-6634,ana-livia93@ig.com.br,GO;Aparecida de Goiânia;Setor Bueno;Lagoa Jesus,Faxineiro,Casado(a),1981-09-01,2020-02-18,,4,5
+127,Nicolas Nascimento,Feminino,456.182.793-55,(62) 98943-8206,sofiasales@cardoso.br,GO;Aparecida de Goiânia;Centro;Fazenda Maria Cecília Oliveira,Consultor de Vendas,Divorciado(a),2000-07-04,2021-03-20,,3,2
+128,Pedro Pires,Feminino,051.472.963-52,(62) 95586-8984,daviteixeira@porto.com,GO;Aparecida de Goiânia;Vila Brasília;Recanto Moraes,Consultor de Vendas,Solteiro(a),2003-12-26,2017-05-16,,6,3
+129,Guilherme Moura,Feminino,691.435.827-37,(62) 91034-6987,melocalebe@duarte.org,GO;Goiânia;Jardim Goiás;Chácara Almeida,Administrativo,Casado(a),1977-03-12,2022-04-02,,1,2
+130,Isadora Mendes,Feminino,764.328.915-82,(62) 91820-2970,joanarocha@jesus.com,GO;Aparecida de Goiânia;Vila Brasília;Loteamento Almeida,Recepcionista,Divorciado(a),1994-01-22,2024-06-02,,3,4
+131,Sr. Vitor Gabriel da Costa,Feminino,390.428.176-31,(62) 99065-2359,peixotoeduardo@uol.com.br,GO;Goiânia;Vila Brasília;Fazenda Beatriz das Neves,Faxineiro,Casado(a),1965-06-11,2021-01-20,,2,2
+132,Yago Gonçalves,Masculino,280.354.791-05,(62) 93255-6798,cauanascimento@moraes.br,GO;Goiânia;Vila Brasília;Avenida Pinto,Administrativo,Solteiro(a),1991-09-02,2017-08-25,,5,3
+133,Maria Barros,Masculino,367.024.819-69,(62) 98697-3732,cribeiro@da.com,GO;Goiânia;Setor Oeste;Travessa de Gomes,Instrutor,Casado(a),1992-08-23,2023-02-12,,6,5
+134,Miguel Nogueira,Masculino,087.243.956-92,(62) 92491-9860,silvamaria-clara@viana.org,GO;Aparecida de Goiânia;Vila Brasília;Recanto de Porto,Recepcionista,Divorciado(a),2002-11-27,2024-10-01,,1,4
+135,Lívia da Costa,Feminino,437.298.561-46,(62) 96386-9548,gfernandes@dias.br,GO;Aparecida de Goiânia;Jardim Goiás;Largo Fernandes,Faxineiro,Divorciado(a),1997-10-18,2021-03-29,,2,3
+136,Isabella Aragão,Masculino,138.769.054-00,(62) 91226-5117,esilveira@yahoo.com.br,GO;Aparecida de Goiânia;Parque Amazônia;Setor da Cruz,Recepcionista,Solteiro(a),2000-12-19,2018-09-07,,1,4
+137,Vitor Gabriel Nunes,Masculino,413.706.258-71,(62) 92355-8879,maria-alicecavalcanti@oliveira.net,GO;Goiânia;Setor Bueno;Setor Davi Luiz das Neves,Faxineiro,Casado(a),1972-08-14,2016-08-23,,6,4
+138,Sr. Luiz Gustavo Cardoso,Feminino,360.729.815-77,(62) 99689-4168,julia40@yahoo.com.br,GO;Aparecida de Goiânia;Setor Bueno;Setor de Campos,Instrutor,Casado(a),1986-12-10,2017-04-01,,3,2
+139,Sophie das Neves,Feminino,942.385.076-65,(62) 92022-3487,mteixeira@aragao.br,GO;Aparecida de Goiânia;Setor Bueno;Avenida de Pereira,Recepcionista,Divorciado(a),2000-02-23,2016-10-24,,3,1
+140,Henrique Cardoso,Masculino,698.073.425-38,(62) 98529-6098,alexandreoliveira@uol.com.br,GO;Goiânia;Vila Brasília;Sítio Araújo,Consultor de Vendas,Viúvo(a),1987-11-15,2024-05-28,,2,4
+141,Sra. Maria Clara da Costa,Feminino,409.753.621-43,(62) 92045-9867,miguelalmeida@gmail.com,GO;Aparecida de Goiânia;Parque Amazônia;Avenida da Paz,Recepcionista,Solteiro(a),1970-04-06,2021-10-18,,6,3
+142,Vinicius Silveira,Feminino,617.245.309-25,(62) 90671-7250,luana76@yahoo.com.br,GO;Goiânia;Setor Oeste;Colônia de Fogaça,Consultor de Vendas,Viúvo(a),2004-09-18,2021-06-20,,4,5
+143,Clara da Mata,Masculino,510.768.392-40,(62) 97983-5769,gustavopires@uol.com.br,GO;Goiânia;Setor Bueno;Recanto de Caldeira,Instrutor,Divorciado(a),2000-09-30,2021-02-23,,2,4
+144,Gabriela da Cunha,Feminino,682.147.590-30,(62) 96908-1928,esther21@hotmail.com,GO;Goiânia;Parque Amazônia;Vereda de Almeida,Gerente,Divorciado(a),1972-07-21,2017-08-19,,3,5
+145,Dr. Lucca Nunes,Feminino,941.520.763-99,(62) 96875-5116,ianda-rocha@uol.com.br,GO;Goiânia;Setor Oeste;Aeroporto Clarice da Rosa,Instrutor,Solteiro(a),2006-01-28,2023-12-31,,6,4
+146,Cauã Rezende,Masculino,529.176.430-99,(62) 99597-9109,diogoda-rocha@bol.com.br,GO;Aparecida de Goiânia;Setor Bueno;Recanto Vitória Pinto,Consultor de Vendas,Divorciado(a),1986-10-04,2023-01-06,,1,4
+147,Marcos Vinicius Almeida,Feminino,738.205.961-86,(62) 99938-9502,milena80@yahoo.com.br,GO;Aparecida de Goiânia;Parque Amazônia;Esplanada de Gonçalves,Instrutor,Solteiro(a),1967-06-01,2023-09-03,,5,1
+148,Maria Cecília da Cruz,Masculino,862.759.340-00,(62) 91924-4909,xaragao@da.br,GO;Aparecida de Goiânia;Setor Oeste;Quadra de da Rosa,Faxineiro,Solteiro(a),1990-06-23,2015-11-28,,3,4
+149,Ana Carolina Moura,Feminino,582.691.307-02,(62) 99393-9564,xramos@campos.br,GO;Aparecida de Goiânia;Centro;Conjunto Porto,Consultor de Vendas,Viúvo(a),1966-03-30,2019-03-28,,6,1
+150,Vitor Castro,Masculino,478.239.501-97,(62) 99288-3961,ana-laurateixeira@alves.com,GO;Aparecida de Goiânia;Centro;Loteamento de Farias,Instrutor,Divorciado(a),1999-01-02,2018-09-18,,4,1

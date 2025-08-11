@@ -1,0 +1,7 @@
+ID_plano,Nome,Valor_Mensal,Periodo,Funcional,Hidroginástica,Natação,Pilates Aparelho,Pilates Solo,Musculação
+1,Plano Básico,99.9,Mensal,0,0,0,0,0,1
+2,Plano Plus,149.9,Mensal,1,0,0,0,0,1
+3,Plano Premium,199.9,Mensal,1,0,0,0,1,1
+4,Plano Aqua,179.9,Mensal,0,1,0,0,0,0
+5,Plano Completo,299.9,Mensal,1,1,1,1,1,1
+6,Plano Intermediário,139.9,Mensal,0,0,0,0,1,1
