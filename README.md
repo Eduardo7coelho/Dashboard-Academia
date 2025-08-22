@@ -5,7 +5,7 @@ O objetivo é criar um ambiente de dados que permita gerar **insights gerenciais
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Modelagem de Dados
 
 ---
 
